@@ -17,11 +17,11 @@ A Trybe é uma escola de desenvolvimento web genuinamente comprometida com o suc
 
 <details><summary><strong>Como utilizar:</strong></summary><br />
 
-<h3>Pré-requisitos<h3>
+<strong>Pré-requisitos<strong>
 
 - Node.js 
 
-<h3>Instalação<h3>
+<strong>Instalação<strong>
 
 1. Clone este repositório em sua máquina
 2. Instale as dependências do projeto com o comando: `npm install`
