@@ -15,7 +15,7 @@ A Trybe é uma escola de desenvolvimento web genuinamente comprometida com o suc
 
 ![Solar System Preview](./src/images/solar-sistem.png)
 
-<h2>Como utilizar:<h2>
+<details><summary><strong>Como utilizar:</strong></summary><br />
 
 <h3>Pré-requisitos<h3>
 
@@ -26,6 +26,8 @@ A Trybe é uma escola de desenvolvimento web genuinamente comprometida com o suc
 1. Clone este repositório em sua máquina
 2. Instale as dependências do projeto com o comando: `npm install`
 3. Inicie o servidor com o comando: `npm start`
+
+</details>
 
 <h2>Contato </h2>
 
