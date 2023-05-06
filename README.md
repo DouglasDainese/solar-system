@@ -11,7 +11,7 @@ O objetivo do projeto foi colocar em prática os conhecimentos obtidos no bloco 
 A Trybe é uma escola de desenvolvimento web genuinamente comprometida com o sucesso profissional de quem estuda com ela. O curso de desenvolvimento web fullstack contém mais de 1500 horas e é altamente orientado para a prática, onde aplicamos os conhecimentos obtidos em projetos como este.
 </details>
 <br>
-<h2>Previa do projeto Solar-System </h2> 
+<h2>Prévia do projeto Solar-System </h2> 
 
 ![Solar System Preview](./src/images/solar-sistem.png)
 
